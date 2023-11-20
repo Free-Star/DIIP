@@ -244,6 +244,7 @@ export default {
       s = Math.floor(seconds - 60 * m);
       s = s.toString().length == 1 ? "0" + s : s;
       return m + ":" + s;
+
     },
     close() {},
   },

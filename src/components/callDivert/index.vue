@@ -20,6 +20,7 @@ export default {
   },
   methods: {
     hide() {
+
       this.$store.dispatch("CallDivert", false);
     },
   },

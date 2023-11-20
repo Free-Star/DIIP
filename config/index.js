@@ -13,8 +13,10 @@ module.exports = {
     proxyTable: {},
 
     // Various Dev Server settings
-    host: 'scc.yuqi.com', // can be overwritten by process.env.HOST
-    port: 2018, // can be overwritten by process.env.PORT, if port is in use, a free one will be determined
+    // host: 'scc.yuqi.com', // can be overwritten by process.env.HOST
+    host:'localhost',
+    // port: 2018, // can be overwritten by process.env.PORT, if port is in use, a free one will be determined
+    port:2023,
     autoOpenBrowser: false,
     errorOverlay: true,
     notifyOnErrors: true,

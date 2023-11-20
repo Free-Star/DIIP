@@ -94,15 +94,10 @@ module.exports = {
     ]
   },
   node: {
-    // prevent webpack from injecting useless setImmediate polyfill because Vue
-    // source contains it (although only uses it if it's native).
-    setImmediate: false,
-    // prevent webpack from injecting mocks to Node native modules
-    // that does not make sense for the client
-    dgram: 'empty',
-    fs: 'empty',
-    net: 'empty',
-    tls: 'empty',
-    child_process: 'empty'
+    // Webpack 5 不再需要这些设置
+    // __dirname, __filename, global 可以根据需要设置
+    __dirname: 'mock', // 或 false
+    __filename: 'mock', // 或 false
+    global: true, // 默认值
   }
 }

@@ -1,1 +1,1 @@
-1.°ÑpatchÄ¿Â¼ÀïµÄjquery.verto.js¸²¸Çµ½/var/www/broadcast-system/node_modules/verto/src/ÏÂ£¬Ë¢ĞÂºóÖÕ¶Ë×´Ì¬ÒÀÈ»ÄÜ¹»±£³Ö¡£
+1.æŠŠpatchç›®å½•é‡Œçš„jquery.verto.jsè¦†ç›–åˆ°/var/www/broadcast-system/node_modules/verto/src/ä¸‹ï¼Œåˆ·æ–°åç»ˆç«¯çŠ¶æ€ä¾ç„¶èƒ½å¤Ÿä¿æŒã€‚
