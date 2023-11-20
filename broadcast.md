@@ -1,0 +1,1 @@
+1.把patch目录里的jquery.verto.js覆盖到/var/www/broadcast-system/node_modules/verto/src/下，刷新后终端状态依然能够保持。

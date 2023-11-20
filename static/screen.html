@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style type="text/css">  
+        body,html {  
+            height: 100%;  
+            margin: 0;  
+            padding: 0;  
+            color: #fff;  
+            font-family: Arial  
+        }  
+          
+        .layout {  
+            height: 49%;  
+            width: 49%;  
+            background: #888; 
+        }  
+    </style>  
+     <script src="http://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="  crossorigin="anonymous"></script> 
+    <script>
+    
+    (function ($) {
+        $.getUrlParam = function (name) {
+          var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+          var r = window.location.search.substr(1).match(reg);
+          if (r != null) return unescape(r[2]); return null;
+        }
+      })(jQuery);
+    $(function(){
+    getData();
+    });
+         
+    function getData(){
+    var url1 = $.getUrlParam('s1');
+    var url2 = $.getUrlParam('s2');
+    var url3 = $.getUrlParam('s3');
+    var url4 = $.getUrlParam('s4');
+        
+    $('#left_top').attr('src',url1);
+    $('#right_top').attr('src',url2);
+    $('#left_bottom').attr('src',url3);
+    $('#right_bottom').attr('src',url4);
+    
+    }
+    </script>
+</head>
+<body>   
+     
+            <iframe id="left_top" class="layout" >   </iframe>  
+            <iframe id="left_bottom" class="layout" >    </iframe>  
+            <iframe id="right_top" class="layout" >    </iframe>  
+            <iframe id="right_bottom" class="layout" >    </iframe>    
+</body>   
+</html>

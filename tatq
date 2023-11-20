@@ -1,0 +1,952 @@
+[33mcommit ea1f1373f9973501a522008112b32016646714ec[m
+Author: root <root@scc.yuqi.com>
+Date:   Thu Jul 12 10:42:17 2018 +0800
+
+    解决了一些小bug，修改了管理页面布局
+
+[33mcommit 9dfe70ae19bf14d0d9b515444946edc13b2c0f1f[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri Jul 6 21:08:20 2018 +0800
+
+    全部设备改进，展示分支所有设备
+
+[33mcommit 2e71d38fbadae99abe349caf789f39c4ca8467ac[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri Jul 6 16:48:23 2018 +0800
+
+    修改全部设备没有及时更新的bug
+
+[33mcommit 709b3e5e43e74f01a23e9dce5fc97ca4a91f8041[m
+Merge: 2931eb4 9d8f2e3
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Fri Jul 6 15:52:23 2018 +0800
+
+    Merge remote-tracking branch 'remotes/origin/gpw_20180705' into augernew
+    
+    # Conflicts:
+    #       src/page/broadOrder/edit.vue
+    #       src/page/broadOrder/index.vue
+    #       src/page/systemAdmin/recordManage/index.vue
+
+[33mcommit 9d8f2e33374c20fddc24347872f09a3ad5aa92dc[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri Jul 6 00:03:26 2018 +0800
+
+    修改原来submitForm函数的错误导致的页面未更新
+
+[33mcommit 2931eb48b6965cd064d2918012a5cf6445135c30[m
+Author: root <root@scc.yuqi.com>
+Date:   Thu Jul 5 23:15:04 2018 +0800
+
+    // 增加了底部播放
+
+[33mcommit 91b6b604daf272cb86721c0bc3c1884a30a17b2e[m
+Author: root <root@scc.yuqi.com>
+Date:   Thu Jul 5 18:21:59 2018 +0800
+
+    修改了设备管理页bug
+
+[33mcommit a3b305dd7bd5b3758376b7b1c2f93b87c78a48d7[m
+Author: root <root@scc.yuqi.com>
+Date:   Thu Jul 5 18:05:52 2018 +0800
+
+    修复管理页高度bug
+
+[33mcommit 716b5fb1a509222272c2c2b30bc950ce916cd4e0[m
+Author: root <root@scc.yuqi.com>
+Date:   Thu Jul 5 17:50:34 2018 +0800
+
+    修改创建用户组的小bug和分组显示的小bug
+
+[33mcommit 0dca623a829c197602efcc45ef2cb0b23eae584a[m
+Author: root <root@scc.yuqi.com>
+Date:   Thu Jul 5 16:49:57 2018 +0800
+
+    加入了组织机构的选择页面
+
+[33mcommit 9f04e8327cd3cf0c2be1fe2aed6eaecc2482416a[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed Jul 4 15:00:46 2018 +0800
+
+    管理页面大修改，完善用户体验
+
+[33mcommit 9eb53ccdf904ee12a52af8938413b39e3c26fe41[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri Jun 29 18:29:06 2018 +0800
+
+    未完成的管理页面上传和一些修改
+
+[33mcommit 73e566c986508fca3fee03a9a6fe8b3921aa48f5[m
+Merge: a14c69e fce868a
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Fri Jun 29 12:47:36 2018 +0800
+
+    Merge branch 'zhangwei0529' into augernew
+
+[33mcommit a14c69efc712bb029029bf45b28c7f3a4abdb33b[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri Jun 29 12:44:18 2018 +0800
+
+    //预约实现 预约删除还有点bug
+
+[33mcommit c4ba02f99c66bed7f14d2bb83f6cc3c9c25b182d[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed Jun 27 12:13:09 2018 +0800
+
+    // zuixin
+
+[33mcommit fce868a53bb629966d3bcb43b0c6c168409c6caf[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri Jun 15 17:37:56 2018 +0800
+
+    fs_api异步bug，所以播放后实时文本置空
+
+[33mcommit 9431a9a163990a675c88cc0c870ee52092a25c2a[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri Jun 15 17:24:28 2018 +0800
+
+    刚才有个小bug
+
+[33mcommit 3d3cfdcd4a52e9316bb6ba879b17994e599d621a[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri Jun 15 17:20:08 2018 +0800
+
+    完善了tts功能，修改了播放列表样式bug，修改了ipbroad的选中bug(早就改好了，合并时又导致了这个问题)
+
+[33mcommit a31453345de5724de98c350aa4168002ed82e96f[m
+Author: root <root@scc.yuqi.com>
+Date:   Thu Jun 14 11:39:03 2018 +0800
+
+    一些样式修改
+
+[33mcommit f8d27a36e4eabe535e94946bf077a37c746a3a60[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed Jun 13 17:16:31 2018 +0800
+
+    样式修改
+
+[33mcommit a0a3f705d35eb880ffd1da04fc239eaa90aa8bdf[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed Jun 13 16:01:27 2018 +0800
+
+    删除测试话机
+
+[33mcommit 1db194375cba334980c182550e7f3b8789eccc3c[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed Jun 13 15:56:25 2018 +0800
+
+    修复右话机的接听和拨打逻辑，但是注意使用右话机无法处理呼叫队列等待放音乐等等问题，但是可以接打电话
+
+[33mcommit 89a414dfa42b0dfe6c7f6c3efa08b85c94a8fe93[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed Jun 13 15:07:04 2018 +0800
+
+    修改会议状态的小bug
+
+[33mcommit 250a37f4695a957685b75df2a98a061f46ff8e47[m
+Merge: 544f7d1 d204163
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Wed Jun 13 14:43:30 2018 +0800
+
+    Merge remote-tracking branch 'remotes/origin/gpw_20180613' into augernew
+    
+    # Conflicts:
+    #       src/page/ipBroad/index.vue
+
+[33mcommit d204163e0a6550b49677031b76316aed9f901bab[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed Jun 13 14:38:09 2018 +0800
+
+    刷新后更新通话或者响铃的状态
+
+[33mcommit 544f7d169a9bb1ba6c2eb7046a63d921d7b723f6[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Wed Jun 13 14:25:56 2018 +0800
+
+    注释掉特殊号码
+
+[33mcommit fae73cb5c943dcaf05c406af804d381706a7144f[m
+Merge: cde6528 6ded846
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Wed Jun 13 12:04:59 2018 +0800
+
+    Merge remote-tracking branch 'remotes/origin/zhangwei0529' into augernew
+    
+    # Conflicts:
+    #       src/page/home/index.vue
+    #       src/page/ipBroad/index.vue
+
+[33mcommit cde65286afe8db0315dd50b4bb015921dab5a220[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed Jun 13 11:45:26 2018 +0800
+
+    修改了传出的ringing——wait状态bug
+
+[33mcommit 6ded846685b52c37f67601aef8671c9619412e87[m
+Author: root <root@scc.yuqi.com>
+Date:   Tue Jun 12 22:30:33 2018 -0400
+
+    // 修改了文件管理界面
+
+[33mcommit 01fbd7d7cfe8f2347a772121ce362c6134dab521[m
+Author: root <root@scc.yuqi.com>
+Date:   Mon Jun 11 11:37:52 2018 +0800
+
+    针对状态的一些bug修改
+
+[33mcommit 9f2980a66baafa5f96c6100bb7a5886f7ddfe2af[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed Jun 6 23:08:11 2018 -0400
+
+    // 修复了文件管理界面右面只能添加到最新歌单的bug
+
+[33mcommit 33e33f1f6c9109cc16282e97f24e4d0da655adcc[m
+Merge: 1404477 1ee8165
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Tue Jun 5 14:50:47 2018 +0800
+
+    Merge remote-tracking branch 'remotes/origin/zhangwei0529' into augernew
+
+[33mcommit 1ee8165bf640d7c07778259ee2d94e9440534fb0[m
+Author: root <root@scc.yuqi.com>
+Date:   Tue Jun 5 02:42:37 2018 -0400
+
+    // 将歌单放在广播界面右侧
+
+[33mcommit 140447726cf2ebfa53d1b28a21aeee42f36391a7[m
+Author: root <root@scc.yuqi.com>
+Date:   Tue Jun 5 01:45:47 2018 -0400
+
+    修改左话机按键反馈和进入会议提示音
+
+[33mcommit febc058bf14f11f914221483e668f6617bdbe421[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri Jun 1 05:54:14 2018 -0400
+
+    // zuixin
+
+[33mcommit 16c13c7f36927376e5c36a7a2343cbab3fa9dd47[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri Jun 1 17:22:16 2018 +0800
+
+    视频联动实现用预先配置的基址+用户实现
+
+[33mcommit 1f490d7203585bff7f08e1d1f62f46b1e2bdc1de[m
+Merge: b83084a 8a900b6
+Author: root <root@scc.yuqi.com>
+Date:   Fri Jun 1 02:56:23 2018 -0400
+
+    Merge branch 'zhangwei0529' of http://172.96.202.219:6000/kellyWang/broadcast-system into zhangwei0529
+
+[33mcommit b83084aef295b368f4092c81516eff01b301146e[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri Jun 1 02:52:56 2018 -0400
+
+    // zuixin
+
+[33mcommit 8a900b6f551a792f1c848d23d7eacb77d3801384[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Fri Jun 1 13:06:56 2018 +0800
+
+    合并佩文的改动
+
+[33mcommit ffc1778a97713bfba75ae9e6d0b006d6278edd53[m
+Merge: 2f70395 3d0c153
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Fri Jun 1 13:01:16 2018 +0800
+
+    Merge remote-tracking branch 'remotes/origin/zhangwei0529' into augernew
+    
+    # Conflicts:
+    #       src/page/ipBroad/index.vue
+
+[33mcommit 2f70395d87777f03ddd83f11c10cbfedf8dbefcd[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri Jun 1 12:52:07 2018 +0800
+
+    修改分组显示
+
+[33mcommit 114fee2a1e8bce0ee62a2623fa395827a2cf45e4[m
+Author: zjy <1160704409@qq.com>
+Date:   Fri Jun 1 11:50:00 2018 +0800
+
+    修复设备分组问题
+
+[33mcommit 3d0c1535f7cd149219f9aa18c0a9efd3cdfdff33[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed May 30 04:57:08 2018 -0400
+
+    //zhangwei0520
+
+[33mcommit 5cc62e3738ccdc11e06e2f543ce2c91f139869e0[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed May 30 14:59:23 2018 +0800
+
+    实现了用户进入会议时deviceList的状态更新
+
+[33mcommit cc5ea56cf95a9bb95e3a7ea2ea8857a0c0bbe1e4[m
+Author: root <root@scc.yuqi.com>
+Date:   Tue May 29 05:15:03 2018 -0400
+
+    //zuixin
+
+[33mcommit a288bb9834675fd358a397e42509ece0089bfc4a[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri May 25 18:05:26 2018 +0800
+
+    完善各个页面左话机功能
+
+[33mcommit 830f41b0adef75aa99b13642260b575b54943960[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri May 25 01:28:51 2018 -0400
+
+    合并
+
+[33mcommit 8740eff6b2fca996060e55eb21c71c3bb35c6096[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Fri May 25 13:02:10 2018 +0800
+
+    remove log
+
+[33mcommit 484ed273723cb35923a1fa2632f14b527994ca1d[m
+Author: root <root@scc.yuqi.com>
+Date:   Mon May 21 14:19:42 2018 +0800
+
+    增加了通话时间在前端页面的显示
+    
+    # Conflicts:
+    #       src/page/home/index.vue
+
+[33mcommit 45d210a2d79dd8437b079d57eb435f1e33668e6f[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri May 25 00:50:16 2018 -0400
+
+    一些新改动
+
+[33mcommit b0b6c1c531b58b326dd932ba24fa81973797e9e2[m
+Author: root <root@scc.yuqi.com>
+Date:   Thu May 17 19:07:09 2018 +0800
+
+    删去了一些无用代码
+
+[33mcommit 776815b372ac1a8ad4c24c38253347df6a1e7f0a[m
+Author: root <root@scc.yuqi.com>
+Date:   Thu May 17 18:40:30 2018 +0800
+
+    完善了各个页面的分组功能,完善了状态的显示
+
+[33mcommit da17222b4bcdd43ab1040c48eb805e9143defb9d[m
+Author: root <root@scc.yuqi.com>
+Date:   Mon May 14 04:53:18 2018 -0400
+
+    会议室颜色更改
+
+[33mcommit 926c088192cf5f3b9e1c84c8a110252fc22bafa3[m
+Merge: 1a48f97 aefed7a
+Author: root <root@scc.yuqi.com>
+Date:   Mon May 14 03:13:45 2018 -0400
+
+    Merge branch 'gpw_20180514' of http://172.96.202.219:6000/kellyWang/broadcast-system into gpw_20180514
+
+[33mcommit aefed7abe66c2e381a4ef016a30cdaebbae84d49[m
+Author: root <root@scc.yuqi.com>
+Date:   Mon May 14 15:13:04 2018 +0800
+
+    优化会议室状态更新
+
+[33mcommit 1a48f9700829c00e70fdfd19b11262f7f99ac914[m
+Merge: 3ba1939 dbfcba7
+Author: root <root@scc.yuqi.com>
+Date:   Mon May 14 03:09:23 2018 -0400
+
+    xXwq
+    ^xMerge branch 'gpw_20180514' of http://172.96.202.219:6000/kellyWang/broadcast-system into gpw_20180514
+    
+    E
+
+[33mcommit 3ba1939bc5eb2481bc406bcd1a7b0406cb5103de[m
+Author: root <root@scc.yuqi.com>
+Date:   Mon May 14 03:07:58 2018 -0400
+
+    优化队列状态的更新
+
+[33mcommit dbfcba7116eee913f3bdc54722eac65438b62e86[m
+Author: root <root@scc.yuqi.com>
+Date:   Mon May 14 14:08:48 2018 +0800
+
+    优化喊话和告警室状态
+
+[33mcommit 0896dfe4875df903d256052e5c1afcdff2eb03f9[m
+Author: root <root@scc.yuqi.com>
+Date:   Mon May 14 01:37:51 2018 -0400
+
+    小改动
+
+[33mcommit d52898dfe74fb7b5efc781bca7d49e164293e419[m
+Author: root <root@scc.yuqi.com>
+Date:   Sun May 13 23:24:04 2018 -0400
+
+    小改动
+
+[33mcommit c4b06ad26e6e3408dee5bc46a4b214e089491563[m
+Author: root <root@scc.yuqi.com>
+Date:   Sun May 13 23:19:53 2018 -0400
+
+    一些小改动，¼优化允许通话和排队等待，优化注册多个verto用户时的退出问题，优化拨打电g
+
+[33mcommit 81156f8494fc246a42e06533aaf40c5d48a5b0dd[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri May 11 06:36:58 2018 -0400
+
+    修复了devicelist的bug，增加了话机状态的对应变化
+
+[33mcommit f539491866d60e96344f7d3231b9eeeae19791d8[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Fri May 11 16:13:48 2018 +0800
+
+    换了新的样式
+
+[33mcommit 827df6df276d312ca8d502bd719a088018f2f14e[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Fri May 11 12:48:07 2018 +0800
+
+    解决合并的冲突
+
+[33mcommit 74333efb3add34aa0d61cdc69dba392520239e15[m
+Merge: f372224 c99741b
+Author: zjy <1160704409@qq.com>
+Date:   Thu May 10 12:21:08 2018 +0800
+
+    解决冲突
+
+[33mcommit f372224f177c789ecaac9ef23813e6b9d6532e7c[m
+Author: zjy <1160704409@qq.com>
+Date:   Thu May 10 12:18:24 2018 +0800
+
+    解决冲突
+
+[33mcommit a483bc47df4a1c90c57da7c1ac3fbbd82e8a07fe[m
+Author: zjy <1160704409@qq.com>
+Date:   Thu May 10 11:34:25 2018 +0800
+
+    修复无法退出登录，记住密码默认样式
+    设备分组的使用
+
+[33mcommit c99741b2d68af58b8abaa784fd46714dd955ac9f[m
+Merge: fc8afef 9edc75b
+Author: nick950222 <504111818@qq.com>
+Date:   Wed May 9 12:37:53 2018 +0800
+
+    Merge remote-tracking branch 'remotes/origin/gpw_20180502' into auger_try
+    
+    # Conflicts:
+    #       src/assets/css/default.css
+    #       src/assets/js/common.js
+    #       src/components/leftPhone/index.vue
+    #       src/components/rightPhone/index.vue
+    #       src/page/home/index.vue
+    #       src/router/index.js
+
+[33mcommit 9edc75baa04e5c4fc7bd57a573f8b7b46eb133e6[m
+Merge: b6ab186 74ff889
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Wed May 9 12:18:55 2018 +0800
+
+    Merge remote-tracking branch 'remotes/origin/gpw_20180502' into auger
+
+[33mcommit 74ff8890aff3e963bf4b5e1cd975a730c930e956[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed May 9 00:15:34 2018 -0400
+
+    进入左会议室等待音，点击进入按键自动开始通话
+
+[33mcommit fc8afef8b3f7992e004955cb386a40cfc8705e10[m
+Author: zjy <1160704409@qq.com>
+Date:   Wed May 9 11:07:00 2018 +0800
+
+    更改名字后的后台管理文件
+
+[33mcommit 81651c8eea7b2a54d3b8c5ea8a1aba1e5f44fdfb[m
+Merge: ae46748 5adadfa
+Author: zjy <1160704409@qq.com>
+Date:   Tue May 8 17:59:07 2018 +0800
+
+    最新后台管理
+
+[33mcommit b6ab186a06f332a3ee44e3b7be7c2b0d4fd4696e[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Tue May 8 12:11:13 2018 +0800
+
+    9110和9100使用mute deaf来静音
+    临时弹框视频用group的
+
+[33mcommit 82fbf14ee6b8136ff8c4ce0ea455666512425504[m
+Merge: 3a302bd 3a92f60
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Mon May 7 16:00:06 2018 +0800
+
+    Merge branch 'auger' into gpw_20180502
+
+[33mcommit 3a302bd61b05555ca490fc62096f68dd86fcd895[m
+Author: root <root@scc.yuqi.com>
+Date:   Mon May 7 03:53:59 2018 -0400
+
+    联动视频地址使用了统一的接口，用于测试
+
+[33mcommit 6e9bc8caf90f63dacdd286e453eb5e98a9b21459[m
+Author: root <root@scc.yuqi.com>
+Date:   Mon May 7 03:37:52 2018 -0400
+
+    优化两个会议室状态，实现左侧控制键盘对高警室话机的控制
+
+[33mcommit 3a92f60684751a1adca01bf492809a693446f604[m
+Merge: a51ca1d 1fe5426
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Fri May 4 23:55:36 2018 +0800
+
+    Merge branch 'shyh_release_basic' into gpw_20180502
+
+[33mcommit a51ca1d747aef3a6cbea8fcab5c44dc37616f7e0[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri May 4 01:39:17 2018 -0400
+
+    告警室的逻辑和话机的状态变化
+
+[33mcommit 69fe1e2cc4359dbb4b5e986be67e40e5118b57ad[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri May 4 01:38:50 2018 -0400
+
+    告警室的逻辑和话机的状态变化
+
+[33mcommit 1fe5426221b407c6dba71cb9cdd8b049dc4f3be3[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Fri May 4 12:12:03 2018 +0800
+
+    张为：主叫的振铃状态
+
+[33mcommit 5f724c88f4990af99bd8ccd6279dc31b6917084d[m
+Merge: 37231be 57a086c
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Thu May 3 20:59:33 2018 +0800
+
+    Merge remote-tracking branch 'remotes/origin/gpw_20180502' into shyh_release_basic
+
+[33mcommit 57a086c3417da86735dd8ac612caaaa9ab8b31de[m
+Author: root <root@scc.yuqi.com>
+Date:   Thu May 3 08:58:02 2018 -0400
+
+    对转接功能的修改
+
+[33mcommit 37231be655bad2c72cc0e065f7a8f233ca1889e4[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Thu May 3 20:36:05 2018 +0800
+
+    let api = 'https://192.168.1.102:8001/'
+
+[33mcommit 0e61cc5ec0c1876c206ca8f8881e4d00e867f079[m
+Merge: 5adadfa 717fad5
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Thu May 3 16:29:27 2018 +0800
+
+    Merge remote-tracking branch 'remotes/origin/gpw_20180502' into auger_try_temp
+    
+    # Conflicts:
+    #       src/components/leftPhone/index.vue
+
+[33mcommit 717fad5d0f46cb412dd3139db3a048e8b1d9fd9b[m
+Author: root <root@scc.yuqi.com>
+Date:   Thu May 3 04:12:07 2018 -0400
+
+    实现左话机所有功能,优化了home监听会议部分的代码
+
+[33mcommit ac0883a53bbad05fb923ec66b052635300e3134d[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed May 2 22:31:59 2018 -0400
+
+    尝试使用props传递leftphone和voicecall之间的值
+
+[33mcommit 36d0619e987bd1133e016fe7a27165e0ed7f9b62[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed May 2 15:49:08 2018 -0400
+
+    //0503 final
+
+[33mcommit 65e2b1d66353d07fae00b153141459d3832cc1f7[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed May 2 15:33:12 2018 -0400
+
+    //ditu shipin
+
+[33mcommit b590e0ebd67840ca1347a266a94d65721ac691fc[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed May 2 15:21:33 2018 -0400
+
+    //first ban
+
+[33mcommit 5066b0228c82d7a8551e7b0820556249aaeee1df[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed May 2 03:37:00 2018 -0400
+
+    左右会议室分开处理，增加了结束服务功能，优化了callQUEUE的维护逻辑
+
+[33mcommit ae4674895a0880510ac67bda44f74e62103698d4[m
+Author: zjy <1160704409@qq.com>
+Date:   Wed May 2 15:20:02 2018 +0800
+
+    朱进易更改的setting
+
+[33mcommit 5adadfa9784ef437aa4870be9c96e8ea4b3c580a[m
+Merge: dcc5f60 b78f0c7
+Author: kelly <wangyanli0905@126.com>
+Date:   Wed May 2 15:17:24 2018 +0800
+
+    王艳丽最新代码
+
+[33mcommit dcc5f60d7c99c547581138e1eae17f74702e2914[m
+Author: kelly <wangyanli0905@126.com>
+Date:   Wed May 2 15:09:44 2018 +0800
+
+    王艳丽最新代码
+
+[33mcommit b78f0c793392ce9ab8be5783d53de52af807affd[m
+Merge: dff54ee 065e374
+Author: zjy <1160704409@qq.com>
+Date:   Sat Apr 28 15:09:16 2018 +0800
+
+    杂七杂八
+
+[33mcommit dff54eee986d792bc00ca6fde4f0eb2452c8f1dd[m
+Author: zjy <1160704409@qq.com>
+Date:   Sat Apr 28 15:03:34 2018 +0800
+
+    样式
+
+[33mcommit 4d0efa4387e03ea2a830ce55313d39e04ce69bb6[m
+Author: zjy <1160704409@qq.com>
+Date:   Sat Apr 28 14:58:32 2018 +0800
+
+    琳姐修改的样式
+
+[33mcommit 065e3741b95c4b04aa1188f8ac9e88e3908203d6[m
+Author: root <root@scc.yuqi.com>
+Date:   Fri Apr 27 10:41:54 2018 -0400
+
+    在最新分支上添加了会议室的状态，选中的状态和mute，unmute，kick的功能
+
+[33mcommit 73660b054fd9715dc13671467464b00296197d3c[m
+Author: kelly <wangyanli0905@126.com>
+Date:   Fri Apr 27 19:44:44 2018 +0800
+
+    未提交的几个文件
+
+[33mcommit 6ee747c8b2aaadae85267a59a7c6364572795a66[m
+Author: kelly <wangyanli0905@126.com>
+Date:   Fri Apr 27 19:42:28 2018 +0800
+
+    未提交的几个文件
+
+[33mcommit de509886c12fdb9d0c1dc7a92a0023e22366edb4[m
+Author: kelly <wangyanli0905@126.com>
+Date:   Fri Apr 27 19:28:41 2018 +0800
+
+    合并王艳丽代码后的最新代码
+
+[33mcommit 9ada6a25f18ee32c77bd4924ccfce120219ef05d[m
+Author: zjy <1160704409@qq.com>
+Date:   Fri Apr 27 17:47:03 2018 +0800
+
+    左话机
+
+[33mcommit 2db4461303150615e5f671e8de9f2c2fd226a101[m
+Author: zjy <1160704409@qq.com>
+Date:   Fri Apr 27 16:46:30 2018 +0800
+
+    修复报错
+
+[33mcommit 5c51431cb519c8f4054b56d3b186616fcaedb81f[m
+Author: zjy <1160704409@qq.com>
+Date:   Fri Apr 27 16:24:34 2018 +0800
+
+    page组件
+
+[33mcommit 4f8d34ef109487803b42c03f8adb80b14c866575[m
+Author: zjy <1160704409@qq.com>
+Date:   Fri Apr 27 14:55:39 2018 +0800
+
+    UI样式变更、分页组件、呼叫记录
+
+[33mcommit d2cd196e4d96d0a770cd8fea5380fbad2fa27d65[m
+Merge: f96c17a 7e710e1
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Thu Apr 26 18:28:55 2018 +0800
+
+    Merge remote-tracking branch 'remotes/origin/zhangwei0426' into auger_try
+
+[33mcommit f96c17a4bd28237728a02f48a16485ff64a03a95[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Thu Apr 26 10:05:03 2018 +0800
+
+    漏了两个文件
+
+[33mcommit 16fdf0259b4539358a43d8ca22a6b8b7ea4f7fde[m
+Merge: dfe3a2a eb84166
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Thu Apr 26 09:51:56 2018 +0800
+
+    Merge branch 'auger_try' into gpw_conf
+    
+    # Conflicts:
+    #       src/page/home/index.vue
+    #       src/page/ipBroad/index.vue
+
+[33mcommit eb84166fccca32fad82a314f65817c561d71288d[m
+Merge: abb2781 b9218b5
+Author: root <root@scc.yuqi.com>
+Date:   Wed Apr 25 11:44:56 2018 -0400
+
+    Merge branch 'auger_try' of http://172.96.202.219:6000/kellyWang/broadcast-system into auger_try
+
+[33mcommit abb2781e67f2486d98c42a099419bc9bb56c31d4[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed Apr 25 11:36:19 2018 -0400
+
+    左会议室为9100   右会议室9110
+
+[33mcommit b9218b565e933b9db4b349fb1f47c79ebfceadd2[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Wed Apr 25 21:52:44 2018 +0800
+
+    利用clientReady这个时间来订阅会议室状态
+
+[33mcommit 7f62df6fbb5f423412331d7431d044fd14f203e4[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Wed Apr 25 21:28:51 2018 +0800
+
+    葛佩文：增加会议订阅机制
+
+[33mcommit 7e710e137f4d508ffd6c97aa8f9845b0c1088973[m
+Author: root <root@scc.yuqi.com>
+Date:   Wed Apr 25 07:01:24 2018 -0400
+
+    // YUYIN
+
+[33mcommit dfe3a2a478071ebb4e9d42713c1f7f27c1627cde[m
+Author: root <root@scc.yuqi.com>
+Date:   Tue Apr 24 16:55:38 2018 -0400
+
+    刷新后保持通话和会议状态
+
+[33mcommit 140a01d6836c0782e6bf92411aa83dd6e81eefb4[m
+Author: root <root@scc.yuqi.com>
+Date:   Tue Apr 24 14:17:10 2018 -0400
+
+    对会议的监听第一个版本
+
+[33mcommit 902ebbf79e88eafb3d6f4a65a4b08c3afdd137d1[m
+Author: root <root@scc.yuqi.com>
+Date:   Tue Apr 24 03:10:54 2018 -0400
+
+    葛佩文:使用会议3000来进行喊话
+
+[33mcommit 19e610b7406e9e33c76783139978efb78cacb965[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Tue Apr 24 12:22:45 2018 +0800
+
+    有可能因为这个导致语音页面单通
+
+[33mcommit d79341d6845c8ab42947a583d46c0a673c8cb361[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Mon Apr 23 18:40:15 2018 +0800
+
+    葛佩文利用9001进行喊话操作
+
+[33mcommit 4fbf5faecf1b3f44bf40cdf04b80edb76c9f41c5[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Mon Apr 23 16:10:42 2018 +0800
+
+    张为：实现了利用9001进行特俗操作
+
+[33mcommit 105480f1d54a9090370802b74003bdce077b90aa[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Fri Apr 20 19:08:53 2018 +0800
+
+    后台的地址使用scc.yuqi.com
+
+[33mcommit 0d9b2087be8989e493763ee619b7dd3aca4b4f19[m
+Merge: 1524eda ad0c83a
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Fri Apr 20 11:13:13 2018 +0800
+
+    Merge branch 'zjy-20180327' into auger
+
+[33mcommit ad0c83a6fbca008585e62646e6f23203937125bd[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Fri Apr 20 11:11:19 2018 +0800
+
+    合并了佩文和张为最近的变化
+
+[33mcommit 86a7a08d2ad7044204738388f1d1c1d7594f0311[m
+Author: zjy <1160704409@qq.com>
+Date:   Fri Apr 20 10:59:23 2018 +0800
+
+    合并王艳丽的代码
+
+[33mcommit 1524edaf0da36ca9b80660d07059be977660f804[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Thu Apr 19 17:38:04 2018 +0800
+
+    张为的一次性提交
+
+[33mcommit a1db887675dd0949cde301868b0bd5ace4adb61f[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Thu Apr 19 17:15:55 2018 +0800
+
+    佩文的改动，能够视频联动弹窗
+
+[33mcommit 5dcc74c5583f6711ab140144ca4bd97d58f08919[m
+Author: zjy <1160704409@qq.com>
+Date:   Wed Apr 18 15:41:56 2018 +0800
+
+    提示组件
+
+[33mcommit a3253929dc839dc26461a3d3ffc32f6036e2f387[m
+Author: zjy <1160704409@qq.com>
+Date:   Wed Apr 18 15:38:19 2018 +0800
+
+    测试广播预约指令
+
+[33mcommit 23dcb804570d26c27b2c44455b619f11b1d389eb[m
+Merge: 6bd3787 2df2780
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Mon Apr 9 11:15:09 2018 +0800
+
+    和zjy 20180409代码一致
+    Merge remote-tracking branch 'remotes/origin/zjy-20180327' into auger
+
+[33mcommit 2df27802a18fd369bfc8167ff6d517f319b6896f[m
+Author: zjy <1160704409@qq.com>
+Date:   Mon Apr 9 11:04:47 2018 +0800
+
+    合并后的最新代码
+
+[33mcommit 73f92dc4dfbc438ae63be56951ae12c87c929279[m
+Author: zjy <1160704409@qq.com>
+Date:   Mon Apr 9 10:50:03 2018 +0800
+
+    未提交
+
+[33mcommit 7c9e3973f11f3cf9378bae7084dc1a70bf00adfd[m
+Author: zjy <1160704409@qq.com>
+Date:   Mon Apr 9 10:47:08 2018 +0800
+
+    广播预约查询、批量删除
+
+[33mcommit 6bd3787d3d0944dfa46b1d787e31ded483117fd0[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Sun Apr 8 10:27:52 2018 +0800
+
+    和zjy20180408一样，除了调用后台接口的URL地址不一样
+
+[33mcommit efcb54fb723a84741695ccadfd7514976306f162[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Tue Apr 3 20:50:25 2018 +0800
+
+    漏了一个地方才能和zjy一样
+
+[33mcommit ca60c0f3f4145f7f0c6c4e91a541f0063917ffe6[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Mon Apr 2 20:14:10 2018 +0800
+
+    合并了zjy
+
+[33mcommit e79d0d1dcead91a8c4353fb1c93ab1a5c17ec0ce[m
+Author: zjy <1160704409@qq.com>
+Date:   Mon Apr 2 17:48:20 2018 +0800
+
+    状态基本完成
+
+[33mcommit 30922db57d79d98d3a323e01b177aecf897e5772[m
+Merge: 0ce21ba 9aeceb7
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Mon Apr 2 14:30:43 2018 +0800
+
+    Merge branch 'temp2' into auger !!!!
+
+[33mcommit 9aeceb7af687f503a065a7051fd821dd32a2682b[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Mon Apr 2 14:20:52 2018 +0800
+
+    add zyj
+
+[33mcommit 624d86ab2df48cc7bc8f0332d80e20a2441de9db[m
+Author: zjy <1160704409@qq.com>
+Date:   Wed Mar 28 10:47:10 2018 +0800
+
+    最新版本
+
+[33mcommit 0ce21bac4d72e89f7ea29be8375840fcd93182c9[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Thu Mar 15 23:44:08 2018 +0800
+
+    阅读broadcast.md，替换patch里面的jquery.verto.js
+    更新其他一些代码
+
+[33mcommit 6ec77fa5916ddf3fc636506f8996fa698dac34b8[m
+Author: kelly <wangyanli0905@126.com>
+Date:   Tue Mar 13 15:57:09 2018 +0800
+
+    fix
+
+[33mcommit f02ae9c1bd34f9c7444cbad0b22500f6a862cdc4[m
+Author: wujun <wujun@bupt.edu.cn>
+Date:   Tue Mar 13 10:26:40 2018 +0800
+
+    重新推一次
+
+[33mcommit 922a5295ca0c3be53c9ac687a58123744f55c9da[m
+Author: kelly <wangyanli0905@126.com>
+Date:   Mon Mar 12 11:45:37 2018 +0800
+
+    fix
+
+[33mcommit 206fc94e3e78203e0e438b6d99533e3df52c8a7c[m
+Author: kelly <wangyanli0905@126.com>
+Date:   Mon Mar 12 11:43:49 2018 +0800
+
+    fix
+
+[33mcommit 48acca1aeb298c9afc11b5526ccbee6ff7281fe3[m
+Author: zjy <1160704409@qq.com>
+Date:   Mon Mar 12 11:26:16 2018 +0800
+
+    zjy
+
+[33mcommit df45f34615bb2aa3b0e20af6139d38182c46cab7[m
+Author: kelly <wangyanli0905@126.com>
+Date:   Mon Mar 5 10:08:41 2018 +0800
+
+    fix
+
+[33mcommit 37e781b2b9e9b0415dde1b543de676a61f6972bf[m
+Author: kelly <wangyanli0905@126.com>
+Date:   Fri Feb 9 16:10:04 2018 +0800
+
+    fix
+
+[33mcommit 5ede67162ffca8a3f2c53a9b35d79d3998991a64[m
+Author: kelly <wangyanli0905@126.com>
+Date:   Fri Feb 9 11:01:50 2018 +0800
+
+    fix
+
+[33mcommit fe71484ffb1c2c3ca39177d152b1c680addaa0fc[m
+Author: kelly <wangyanli0905@126.com>
+Date:   Wed Feb 7 09:55:34 2018 +0800
+
+    fix
+
+[33mcommit 870d32b93c0eef561ca65cd2c9b764cbcd5cf5c8[m
+Author: wyl <wangyanli0905@126.com>
+Date:   Wed Jan 24 17:41:27 2018 +0800
+
+    tesst
